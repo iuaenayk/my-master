@@ -22,7 +22,7 @@ It encompasses water quality indicators, pollution levels, morbidity, and socioe
     <td align="center" style="border: none; width: 33%;">
       <img src="https://github.com/user-attachments/assets/502018c8-8a50-4512-add9-399d32432ebb" width="100%" />
       <br>
-      <em>碩士論文：particle隨著時間變化深度位置</em>
+      <em>圖三：particle隨著時間變化深度位置</em>
     </td>
   </tr>
 </table>
