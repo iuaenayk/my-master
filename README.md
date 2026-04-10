@@ -7,8 +7,22 @@ Here is the report and master's thesis content I have done for two years with my
 2. The relationship between water pollution and the global prevalence of waterborne diseases.
 It encompasses water quality indicators, pollution levels, morbidity, and socioeconomic factors that influence health outcomes.
 3. My master's thesis: Simulating the drift trajectory and route of coral larvae using OpenDrift
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/aa539897-8126-4a18-a2e9-3944738aa318" width="50%" />
-  <br>
-  <em>圖：珊瑚幼蟲擴散模擬結果</em>
-</p>
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; width: 33%;">
+      <img src="https://github.com/user-attachments/assets/8ccc7e9b-34e1-4fef-b4b6-1deb8d5f6934" width="100%" />
+      <br>
+      <em>圖一：模擬初步結果</em>
+    </td>
+    <td align="center" style="border: none; width: 33%;">
+      <img src="https://github.com/user-attachments/assets/860285d8-1bce-40b1-a77d-e776a61f0c55" width="100%" />
+      <br>
+      <em>圖二：加入海流的模擬結果</em>
+    </td>
+    <td align="center" style="border: none; width: 33%;">
+      <img src="https://github.com/user-attachments/assets/502018c8-8a50-4512-add9-399d32432ebb" width="100%" />
+      <br>
+      <em>碩士論文：particle隨著時間變化深度位置</em>
+    </td>
+  </tr>
+</table>
