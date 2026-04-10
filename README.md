@@ -1,5 +1,6 @@
 # my-master
 
+Hello! I am a second-year master's student in the Department of Marine Environment and Engineering at National Sun Yat-sen University
 Here is the report and master's thesis content I have done for two years with my master's degree, using python and big data analysis.
 1. Distribution of coral bleaching in Taiwan
 2. The relationship between water pollution and the global prevalence of waterborne diseases.
